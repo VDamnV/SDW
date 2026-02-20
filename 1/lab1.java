@@ -2,6 +2,8 @@ import java.util.Random;
 
 public class lab1 {
     public static void main(String[] args) {
+     System.out.println("Розробник: Волков Д.В.");
+        System.out.println("-----------------------------------");
 
         int rows = 3; // Кількість рядків
         int cols = 2; // Кількість стовпців
@@ -56,4 +58,5 @@ public class lab1 {
         }
         System.out.println("]");
     }
+
 }
